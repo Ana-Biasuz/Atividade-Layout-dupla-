@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>Resturante</title>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap" rel="stylesheet">
+
+<link href="css/estilo.css" rel="stylesheet">
+
+</head>
+<body>
+	<section>
+		<header>
+			<div class="titulo">Quitanda Samurai</div>
+		</header>
+		
+		<nav>
+			<div class="menu" style="padding-left:2%;">
+			<br>
+				<a href="index.html">Home</a>
+				<a href="#">Quem Somos</a>
+				<a href="#">Horário de Funcionamento</a>
+				<a href="#">Cardápio</a>
+				<a href="#">Sabores</a>
+				<a href="#">Tele Entrega</a>			
+			</div>		
+		</nav>
+		
+		<aside>
+			<div style="padding-left:4%;">
+			<h2>Sabores exotico</h2>						
+			<table class="tabelas">
+				<tr>
+					<td class="top">Confira!</td>
+				</tr>
+				<tr>
+					<td>Bulgogi</td>
+				</tr>
+				<tr>
+					<td>Tteokbokki</td>
+				</tr>
+				<tr>
+					<td>Kimchi</td>
+				</tr>
+				<tr>
+					<td>Sushi</td>
+				</tr>			
+			</table>
+			</div>
+		
+		</aside>
+            
+               <aside>
+			<div style="padding-left:4%;">
+			<h2>Sabores pradrões</h2>						
+			<table class="tabelas">
+				<tr>
+					<td class="top">Confira!</td>
+				</tr>
+				<tr>
+                                    <td>Prato Exutivo</td>
+				</tr>
+				<tr>
+					<td>Prato do Dia</td>
+				</tr>
+				<tr>
+					<td>Prato de Rico</td>
+				</tr>
+				<tr>
+					<td>Prato de Pobre</td>
+				</tr>			
+			</table>
+			</div>
+		
+		</aside>
+		
+		<main>
+			<h2 style="margin-left:2%;">Venha Conhecer nosso Cardápio</h2>
+			
+			<div class="conteudo">
+			</div>
+			<div style="text-align:center";>
+				<img src="img/quitandasamurai.jpg" alt="quitanda" title="" width="24.2%" height="24.2%"/>
+			</div>
+		</main>
+		<footer>
+			<p>Informações de Contato</p>
+		
+		</footer>
+	</section>
+	<h3>Ana Biasuz, Kleiton</h3>
+</body>
+</html>
